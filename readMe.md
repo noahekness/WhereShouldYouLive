@@ -8,7 +8,7 @@ My role is an advisor but also a peer who will use this information to make info
 
 
 ## How to run
-- Run `streamlit run StartingPython.py` in the terminal and it will open in localhost on your preferred browser
+- Run `streamlit run WhereShouldYouLive.py` in the terminal and it will open in localhost on your preferred browser
 
 ## Note on data:
 - Data was manually collected from various sources, some state level and some city level.
