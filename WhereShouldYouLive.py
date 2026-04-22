@@ -2,7 +2,7 @@
 Make sure you have the following installed:
 - pandas
 - streamlit
-Run the command: /opt/anaconda3/bin/python -m streamlit run "StartingPython.py" to boot up the application
+Run the command: /opt/anaconda3/bin/python -m streamlit run "WhereShouldYouLive.py" to boot up the application
 """
 
 # Import libraries
